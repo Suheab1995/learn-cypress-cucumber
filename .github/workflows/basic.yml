@@ -1,4 +1,4 @@
-name: End-to-end tests
+name: Workflow-to-check-cucumber-reports
 on: 
    workflow_dispatch: 
 jobs:
